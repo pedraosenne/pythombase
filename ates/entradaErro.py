@@ -1,0 +1,14 @@
+while True:
+    try:
+        idade = int(input("Digite sua idade"))
+        if idade <=0:
+            print ("A idade deve ser mair que zero.")
+        else:
+            break
+    except ValueError:
+            print("Digite apenas números interiros.")
+        
+print("idade cadastrada: ", idade)
+
+
+    
