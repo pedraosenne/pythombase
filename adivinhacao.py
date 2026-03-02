@@ -76,3 +76,4 @@ print('=====================================')
 print(f'O número secreto era: {numero_secreto} ⭐')
 print('Joga de novo quando quiser! 😉')
 
+print{"eu eo nicolas fizemo no computador de juntos"}
