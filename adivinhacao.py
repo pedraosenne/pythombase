@@ -9,7 +9,7 @@ RESET = "\033[0m"
 
 
 print(f"{AZUL}**************************{RESET}")
-print(f"{AZUL}***** Jogo Adivinhação *****{RESET}")
+print(f"{AZUL}***** Jogo Adivinhação ***{RESET}")
 print(f"{AZUL}**************************{RESET}")
 
 
